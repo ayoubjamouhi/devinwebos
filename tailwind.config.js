@@ -1,4 +1,5 @@
 module.exports = {
+   mode: 'jit',
   purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
@@ -9,6 +10,7 @@ module.exports = {
         devinBlue2: '#9ecad1',
         devinBlue3: '#daeced',
         devinBlue4: '#b5d7db',
+        devinBlue5: '#76b4bd',
       }
     },
   },
